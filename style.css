@@ -1,0 +1,14 @@
+#cont{
+    height: 50px;
+    width: 900px;
+    background-color: pink;
+    border: 2px solid rgb(14, 174, 196);
+    border-radius: 10px;
+}
+#logo{
+    font-size: 24px;
+    display: inline-block;
+    margin: 20px;
+    margin-top: 10px;
+
+}
